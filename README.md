@@ -15,4 +15,4 @@ If you want to be an alpha tester of the app, just click the link below and sign
 
 ### Questions
 
-If you have any questions, you can reach me out on Twitter or via email. I also invite you to [my blog](https://jacobzmidzinski.com/)
+If you have any questions, you can reach me out on Twitter or via email. I also invite you to [my personal website](https://jacobzmidzinski.com/)
