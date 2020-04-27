@@ -1,0 +1,17 @@
+{
+    "5-fragmentedPodcast195": {
+        "tags": ["podcast"],
+        "title": "Fragmented - 195: Going on-call",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "publishDate": {
+            "_seconds": 1587340822,
+            "_nanoseconds": 500000000
+        },
+        "contentType": "podcast",
+        "description": "Fresh episode of Fragmented Podcast!",
+        "url": "https://fragmentedpodcast.com/episodes/195/"
+    }
+}
