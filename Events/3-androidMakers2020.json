@@ -1,0 +1,22 @@
+{
+    "3-androidmakers2020": {
+        "tags": ["tickets", "online"],
+        "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FandroidMakers.png?alt=media&token=f6ff96a4-7b99-41f8-a782-671c253e8e1b",
+        "endDate": {
+            "_seconds": 1587427200,
+            "_nanoseconds": 0
+        },
+        "url": "androidmakers.fr",
+        "startDate": {
+            "_seconds": 1587340800,
+            "_nanoseconds": 0
+        },
+        "city": "Paris",
+        "country": "France",
+        "name": "AndroidMakers",
+        "coordinates": {
+            "_latitude": 48.8191833,
+            "_longitude": 2.3175404
+        }
+    }
+}
