@@ -1,0 +1,17 @@
+{
+    "6-doomFireEffect": {
+        "url": "https://adambennett.dev/2020/04/adventures-in-compose-the-doom-fire-effect/",
+        "tags": ["android"],
+        "title": "Adventures in Compose - The Doom fire effect",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "publishDate": {
+            "_seconds": 1587667954,
+            "_nanoseconds": 500000000
+        },
+        "contentType": "article",
+        "description": "Great article where Adam Bennett explains (in details) how to create cooool looking Doom fire effect 🔥 using Jetpack Compose"
+    }
+}
