@@ -1,0 +1,22 @@
+{
+    "11-chicagoRoboto2020": {
+        "city": "Chicago",
+        "country": "United States of America",
+        "name": "Chicago Roboto",
+        "coordinates": {
+            "_latitude": 41.8822586,
+            "_longitude": -87.6382925
+        },
+        "tags": ["tickets"],
+        "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FchicagoRoboto.png?alt=media&token=698c9b70-16b1-4f31-b75b-2c4e90641032",
+        "endDate": {
+            "_seconds": 1601337600,
+            "_nanoseconds": 0
+        },
+        "url": "chicagoroboto.com",
+        "startDate": {
+            "_seconds": 1601251200,
+            "_nanoseconds": 0
+        }
+    }
+}
