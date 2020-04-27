@@ -1,0 +1,22 @@
+{
+    "9-appDevConf2020": {
+        "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2Fappdevcon.png?alt=media&token=3ce2db4d-986b-4631-8e19-97ddcd1eae1a",
+        "endDate": {
+            "_seconds": 1600387200,
+            "_nanoseconds": 0
+        },
+        "url": "appdevcon.nl",
+        "startDate": {
+            "_seconds": 1600128000,
+            "_nanoseconds": 0
+        },
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "name": "Appdevcon",
+        "coordinates": {
+            "_latitude": 52.3664504,
+            "_longitude": 4.893281
+        },
+        "tags": ["tickets"]
+    }
+}
