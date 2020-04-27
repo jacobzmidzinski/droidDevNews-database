@@ -1,0 +1,22 @@
+{
+    "7-droidConKenya2020": {
+        "tags": ["tickets"],
+        "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FdroidConKenya.png?alt=media&token=7de875ef-6041-4c31-9e49-63459a201cb5",
+        "endDate": {
+            "_seconds": 1596844800,
+            "_nanoseconds": 0
+        },
+        "url": "droidcon.co.ke",
+        "startDate": {
+            "_seconds": 1596672000,
+            "_nanoseconds": 0
+        },
+        "city": "Nairobi",
+        "country": "Kenya",
+        "name": ".droidConKe",
+        "coordinates": {
+            "_latitude": -1.2892173,
+            "_longitude": 36.7831814
+        }
+    }
+}
