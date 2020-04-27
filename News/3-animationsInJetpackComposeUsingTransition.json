@@ -1,0 +1,17 @@
+{
+    "3-animationsInJetpackComposeUsingTransition": {
+        "tags": ["android", "jetpack compose"],
+        "title": "Animations in Jetpack Compose using Transition",
+        "curator": {
+            "name": "Jacob Zmidzinski",
+            "url": "https://jacobzmidzinski.com"
+        },
+        "publishDate": {
+            "_seconds": 1586822452,
+            "_nanoseconds": 400000000
+        },
+        "contentType": "article",
+        "description": "Next article in Jetpack Compose series by Nikit Bhandari. Short article covers example usage of transitions in Jetpack Compose.",
+        "url": "https://proandroiddev.com/animations-in-jetpack-compose-using-transition-25d5d2143401"
+    }
+}
