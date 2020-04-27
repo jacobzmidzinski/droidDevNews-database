@@ -1,0 +1,22 @@
+{
+    "6-kotliners2020": {
+        "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2Fkotliners.png?alt=media&token=355de70b-d1b7-45c1-be2f-bfa3cf1a273b",
+        "endDate": {
+            "_seconds": 1591315200,
+            "_nanoseconds": 0
+        },
+        "url": "kotliners.com",
+        "startDate": {
+            "_seconds": 1591315200,
+            "_nanoseconds": 0
+        },
+        "city": "Budapest",
+        "country": "Hungary",
+        "name": "Kotliners",
+        "coordinates": {
+            "_latitude": 0,
+            "_longitude": 0
+        },
+        "tags": ["tickets", "online"]
+    }
+}
