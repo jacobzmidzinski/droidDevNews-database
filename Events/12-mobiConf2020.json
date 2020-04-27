@@ -1,0 +1,22 @@
+{
+    "12-mobiConf2020": {
+        "url": "2019.mobiconf.org",
+        "startDate": {
+            "_seconds": 1601510400,
+            "_nanoseconds": 0
+        },
+        "city": "Cracow",
+        "country": "Poland",
+        "name": "Mobiconf",
+        "coordinates": {
+            "_latitude": 50.0891115,
+            "_longitude": 19.9847838
+        },
+        "tags": ["tickets"],
+        "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2Fmobiconf.jpg?alt=media&token=4eebb797-f444-48e1-837c-ac2e42628581",
+        "endDate": {
+            "_seconds": 1601596800,
+            "_nanoseconds": 0
+        }
+    }
+}
