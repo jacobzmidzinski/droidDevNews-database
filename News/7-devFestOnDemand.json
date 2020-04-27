@@ -1,0 +1,17 @@
+{
+    "7-devFestOnDemand": {
+        "contentType": "video",
+        "publishDate": {
+            "_seconds": 1587686422,
+            "_nanoseconds": 300000000
+        },
+        "description": "Watch videos of sessions from DevFests around the world, anytime. Topics including Mobile, Firebase, Cloud, Machine Learning, Web and more!",
+        "url": "https://devfest.withgoogle.com/ondemand?utm_source=devsite&utm_medium=hpp&utm_campaign=devfestondemand",
+        "tags": ["google developers"],
+        "title": "DevFest On demand",
+        "curator": {
+            "name": "Jacob Zmidzinski",
+            "url": "https://jacobzmidzinski.com"
+        }
+    }
+}
