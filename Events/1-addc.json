@@ -1,0 +1,22 @@
+{
+    "1-addc": {
+        "tags": ["tickets"],
+        "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2Faddc.jpg?alt=media&token=b3c6c42e-6439-480f-8e6d-c6fbb9f9d32d",
+        "endDate": {
+            "_seconds": 1624579200,
+            "_nanoseconds": 0
+        },
+        "url": "addconf.com/2020",
+        "startDate": {
+            "_seconds": 1624406400,
+            "_nanoseconds": 0
+        },
+        "city": "Barcelona",
+        "country": "Spain",
+        "name": "ADDC",
+        "coordinates": {
+            "_latitude": 41.389561,
+            "_longitude": 2.136983
+        }
+    }
+}
