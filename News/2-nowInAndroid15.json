@@ -1,0 +1,17 @@
+{
+    "2-nowInAndroid15": {
+        "url": "https://www.youtube.com/watch?v=2ov_23fTwyU",
+        "tags": ["android"],
+        "title": "Now In Android #15",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "publishDate": {
+            "_seconds": 1586304041,
+            "_nanoseconds": 300000000
+        },
+        "contentType": "video",
+        "description": "In this \"Now In Android\" Chet Haase covers some of Android 11 features, AndroidX releases and migration guides, screencasts, videos and articles about Kotlin, Jetpack, and Android Studio"
+    }
+}
