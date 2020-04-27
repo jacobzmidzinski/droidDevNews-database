@@ -1,0 +1,17 @@
+{
+    "9-nowInAndroid16": {
+        "contentType": "video",
+        "publishDate": {
+            "_seconds": 1587513641,
+            "_nanoseconds": 300000000
+        },
+        "description": "In this \"Now In Android\" Chet Haase covers articles and videos about Database Inspector, Kotlin, Material Design Components and more",
+        "url": "https://www.youtube.com/watch?list=PLWz5rJ2EKKc9AtgKMBBdphI-mrx8XzW56&v=C4nursAx-hY",
+        "tags": ["android"],
+        "title": "Now In Android #16",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        }
+    }
+}
