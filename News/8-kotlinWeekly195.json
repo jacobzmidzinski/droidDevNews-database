@@ -1,0 +1,17 @@
+{
+    "8-kotlinWeekly195": {
+        "tags": ["kotlin"],
+        "title": "Kotlin Weekly #195",
+        "curator": {
+            "name": "Jacob Zmidzinski",
+            "url": "https://jacobzmidzinski.com"
+        },
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1587859213,
+            "_nanoseconds": 300000000
+        },
+        "description": "This edition of Kotlin Weekly includes articles about Corotuines and Exceptions, Unit Tests in Android and Sealed Classes + RecyclerView combo",
+        "url": "https://mailchi.mp/kotlinweekly/kotlin-weekly-195"
+    }
+}
