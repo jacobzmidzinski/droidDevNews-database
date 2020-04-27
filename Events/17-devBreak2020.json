@@ -1,0 +1,22 @@
+{
+    "17-devBreak2020": {
+        "city": "Château de Farcheville",
+        "name": "DevBreak",
+        "country": "France",
+        "coordinates": {
+            "_latitude": 48.425641,
+            "_longitude": 2.2863737
+        },
+        "tags": ["tickets"],
+        "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FdevBreak.png?alt=media&token=14b131df-10a5-409c-9453-52cf27cce709",
+        "endDate": {
+            "_seconds": 1623974400,
+            "_nanoseconds": 0
+        },
+        "url": "devbreak.io",
+        "startDate": {
+            "_seconds": 1623888000,
+            "_nanoseconds": 0
+        }
+    }
+}
