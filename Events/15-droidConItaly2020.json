@@ -1,0 +1,22 @@
+{
+    "15-droidConItaly2020": {
+        "tags": ["tickets"],
+        "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FdroidConItaly.jpg?alt=media&token=4d8235e1-0263-41de-bd1f-0c6ece8bae7a",
+        "endDate": {
+            "_seconds": 1606521600,
+            "_nanoseconds": 0
+        },
+        "url": "it.droidcon.com/2020",
+        "startDate": {
+            "_seconds": 1606435200,
+            "_nanoseconds": 0
+        },
+        "city": "Turin",
+        "country": "Italy",
+        "name": ".droidcon Italy",
+        "coordinates": {
+            "_latitude": 45.066396,
+            "_longitude": 7.660298
+        }
+    }
+}
