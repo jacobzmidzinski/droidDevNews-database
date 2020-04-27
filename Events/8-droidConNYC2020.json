@@ -1,0 +1,22 @@
+{
+    "8-droidConNYC2020": {
+        "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FdroidConNYC.png?alt=media&token=66b77e2a-3101-4d2d-ad22-c44955040559",
+        "endDate": {
+            "_seconds": 1598918400,
+            "_nanoseconds": 0
+        },
+        "url": "nyc.droidcon.com",
+        "startDate": {
+            "_seconds": 1598832000,
+            "_nanoseconds": 0
+        },
+        "city": "New York",
+        "country": "United States of America",
+        "name": ".droidCon NYC",
+        "coordinates": {
+            "_latitude": 40.7281787,
+            "_longitude": -73.9600141
+        },
+        "tags": ["tickets", "CFP"]
+    }
+}
