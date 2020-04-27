@@ -1,0 +1,22 @@
+{
+    "5-mDevCamp2020": {
+        "country": "Czech Republic",
+        "name": "mDevCamp",
+        "coordinates": {
+            "_latitude": 50.0616693,
+            "_longitude": 14.4307104
+        },
+        "tags": ["tickets"],
+        "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FmDevCamp.png?alt=media&token=04f24d1f-2500-4535-bed6-ce92272e4ae9",
+        "endDate": {
+            "_seconds": 1590710400,
+            "_nanoseconds": 0
+        },
+        "url": "mdevcamp.eu",
+        "startDate": {
+            "_seconds": 1590710400,
+            "_nanoseconds": 0
+        },
+        "city": "Prague"
+    }
+}
