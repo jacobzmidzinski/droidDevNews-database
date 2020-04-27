@@ -1,0 +1,17 @@
+{
+    "4-kotlinWeekly194": {
+        "tags": ["kotlin"],
+        "title": "Kotlin Weekly #194",
+        "curator": {
+            "name": "Jacob Zmidzinski",
+            "url": "https://jacobzmidzinski.com"
+        },
+        "publishDate": {
+            "_seconds": 1587254413,
+            "_nanoseconds": 300000000
+        },
+        "contentType": "article",
+        "description": "This edition of Kotlin Weekly includes Coroutines and Kotlin Multiplatform resources",
+        "url": "https://mailchi.mp/kotlinweekly/kotlin-weekly-194"
+    }
+}
