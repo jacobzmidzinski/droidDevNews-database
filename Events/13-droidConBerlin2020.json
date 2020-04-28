@@ -9,13 +9,11 @@
         "tags": ["tickets", "cfp"],
         "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FdroidConBerlin.jpg?alt=media&token=0f58fb4e-29e1-4e0a-a5c7-06440a923f06",
         "endDate": {
-            "_seconds": 1602201600,
-            "_nanoseconds": 0
+            "_seconds": 1602201600
         },
         "url": "berlin.droidcon.com",
         "startDate": {
-            "_seconds": 1602028800,
-            "_nanoseconds": 0
+            "_seconds": 1602028800
         },
         "city": "Berlin"
     }
