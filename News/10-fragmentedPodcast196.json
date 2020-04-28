@@ -1,0 +1,16 @@
+{
+    "5-fragmentedPodcast195": {
+        "tags": ["podcast"],
+        "title": "Fragmented - 196: Composing with Leland 👨‍🎨",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "publishDate": {
+            "_seconds": 1588032000
+        },
+        "contentType": "podcast",
+        "description": "New episode of podcast where Kaushik and Donn talk with Leland Richardson about Jetpack Compose and Android",
+        "url": "https://fragmentedpodcast.com/episodes/196/"
+    }
+}
