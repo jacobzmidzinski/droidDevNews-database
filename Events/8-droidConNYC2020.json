@@ -2,13 +2,11 @@
     "8-droidConNYC2020": {
         "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FdroidConNYC.png?alt=media&token=66b77e2a-3101-4d2d-ad22-c44955040559",
         "endDate": {
-            "_seconds": 1598918400,
-            "_nanoseconds": 0
+            "_seconds": 1605657600
         },
         "url": "nyc.droidcon.com",
         "startDate": {
-            "_seconds": 1598832000,
-            "_nanoseconds": 0
+            "_seconds": 1605571200
         },
         "city": "New York",
         "country": "United States of America",
