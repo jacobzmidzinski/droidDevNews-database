@@ -1,0 +1,16 @@
+{
+    "11-dayInLifeOfMobileEngineerAtSlack": {
+        "tags": ["lifestyle"],
+        "title": "A Day in the Life of a Mobile Product Engineer at Slack",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "publishDate": {
+            "_seconds": 1588118400
+        },
+        "contentType": "article",
+        "description": "Few words from Kevin Lai about his day in the life as a Android Staff Engineer @Slack",
+        "url": "https://slack.engineering/a-day-in-the-life-of-a-mobile-product-engineer-at-slack-b00a38790615"
+    }
+}
