@@ -1,7 +1,7 @@
 {
     "12-dayInLifeOfMobileEngineerAtSlack": {
         "tags": ["firebase"],
-        "title": "🔥 Firebase-ing with Kotlin Coroutines + Flow 🌊",
+        "title": "🔥Firebase-ing with Kotlin Coroutines + Flow 🌊",
         "curator": {
             "url": "https://jacobzmidzinski.com",
             "name": "Jacob Zmidzinski"
@@ -10,7 +10,7 @@
             "_seconds": 1588291200
         },
         "contentType": "article",
-        "description": "Short article on how to get started with Kotlin Coroutines and 🌊Flow with 🔥Firebase Cloud Firestore in Android.",
+        "description": "Short article on how to get started with Kotlin Coroutines and Flow with Firebase Cloud Firestore in Android.",
         "url": "https://medium.com/firebase-developers/firebase-ing-with-kotlin-coroutines-flow-dab1bc364816"
     }
 }
