@@ -17,6 +17,6 @@
             "_latitude": 0,
             "_longitude": 0
         },
-        "tags": ["tickets", "online"]
+        "tags": ["online", "tickets"]
     }
 }
