@@ -1,0 +1,20 @@
+{
+    "19-androidSecuritySymposium2020": {
+        "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FandroidSecuritySymp.png?alt=media&token=db6e3468-3385-48a0-a3fa-7f353793a01c",
+        "endDate": {
+            "_seconds": 1594080000
+        },
+        "url": "https://android.ins.jku.at/symposium/",
+        "startDate": {
+            "_seconds": 1593993600
+        },
+        "city": "Linz",
+        "country": "Austria",
+        "name": "Android Security Symposium 2020",
+        "coordinates": {
+            "_latitude": 0,
+            "_longitude": 0
+        },
+        "tags": ["online", "free"]
+    }
+}
