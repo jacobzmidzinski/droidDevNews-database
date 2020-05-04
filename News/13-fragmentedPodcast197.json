@@ -1,0 +1,16 @@
+{
+    "13-fragmentedPodcast197": {
+        "tags": ["podcast"],
+        "title": "Fragmented - 197: .git internals with Gordon 🔧",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "publishDate": {
+            "_seconds": 1588620000
+        },
+        "contentType": "podcast",
+        "description": "New episode of podcast where Kaushik nad his friend Gordon McCreight dive deep into git topic",
+        "url": "https://fragmentedpodcast.com/episodes/197/"
+    }
+}
