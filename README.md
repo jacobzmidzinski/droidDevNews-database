@@ -11,7 +11,8 @@ droidDevNews is Android developer app with news and events 🧑🏼‍💻 (curr
 
 If you want to be an alpha tester of the app, just click the link below and sign-up through Firebase App Distribution 🧑🏼‍🚀
 
-[Alpha version Sign-up 🚀](https://appdistribution.firebase.dev/i/VsejwYW9)
+[Beta version Sign-up 🚀](https://appdistribution.firebase.dev/i/VsejwYW9)
+[Google Play]()
 
 ### Questions
 
