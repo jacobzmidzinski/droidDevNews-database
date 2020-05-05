@@ -1,0 +1,16 @@
+{
+    "14-theOneAndOnlyObject": {
+        "tags": ["kotlin"],
+        "title": "The one and only object",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "publishDate": {
+            "_seconds": 1588636800
+        },
+        "contentType": "article",
+        "description": "In this Kotlin Vocabulary, Murat Yener describes the idea behind companion objects in Kotlin",
+        "url": "https://medium.com/androiddevelopers/the-one-and-only-object-5dfd2cf7ab9b"
+    }
+}
