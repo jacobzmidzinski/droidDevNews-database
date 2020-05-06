@@ -1,0 +1,16 @@
+{
+    "17-android11BetaPlans": {
+        "tags": ["android"],
+        "title": "Android 11: Beta Plans",
+        "curator": {
+            "name": "Jacob Zmidzinski",
+            "url": "https://jacobzmidzinski.com"
+        },
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1588723200
+        },
+        "description": "Dave Burke, VP of Engineering tells us about Android 11 schedule update, App compatibility and how to get started with Android 11",
+        "url": "https://android-developers.googleblog.com/2020/05/android-11-beta-plans.html"
+    }
+}
