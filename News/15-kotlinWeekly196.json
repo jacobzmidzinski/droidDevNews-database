@@ -1,0 +1,16 @@
+{
+    "15-kotlinWeekly196": {
+        "tags": ["kotlin"],
+        "title": "Kotlin Weekly #196",
+        "curator": {
+            "name": "Jacob Zmidzinski",
+            "url": "https://jacobzmidzinski.com"
+        },
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1588464000
+        },
+        "description": "This edition of Kotlin Weekly includes articles about MVI, coroutines (classic), JetpackCompose and and article that will please data engineers, about new version of Kotlin Kernel for Jupyter Notebook",
+        "url": "https://mailchi.mp/kotlinweekly/kotlin-weekly-196"
+    }
+}
