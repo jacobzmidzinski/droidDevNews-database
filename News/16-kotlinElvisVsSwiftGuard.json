@@ -1,0 +1,16 @@
+{
+    "16-kotlinElvisVsSwiftGuard": {
+        "tags": ["kotlin"],
+        "title": "Kotlin's elvis vs Swift's guard",
+        "curator": {
+            "name": "Jacob Zmidzinski",
+            "url": "https://jacobzmidzinski.com"
+        },
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1588723200
+        },
+        "description": "This edition of Kotlin Weekly includes articles about Corotuines and Exceptions, Unit Tests in Android and Sealed Classes + RecyclerView combo",
+        "url": "https://medium.com/better-programming/kotlins-elvis-better-than-swift-s-guard-53030d403c3f"
+    }
+}
