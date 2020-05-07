@@ -1,0 +1,16 @@
+{
+    "19-nowInAndroid17": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1588809600
+        },
+        "description": "In this \"Now In Android\" Chet Haase covers news in Android 11: Developer Preview 3, Dynamic Refresh Rates, AndroidX alpha releases and more",
+        "url": "https://medium.com/androiddevelopers/now-in-android-17-9d73f7bed7f",
+        "tags": ["android"],
+        "title": "Now In Android #17",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        }
+    }
+}
