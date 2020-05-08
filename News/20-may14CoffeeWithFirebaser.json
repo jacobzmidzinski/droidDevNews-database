@@ -1,0 +1,16 @@
+{
+    "20-may14CoffeeWithFirebaser": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1588896000
+        },
+        "description": "Firebase Virtual Meetups: May 14th - Coffee with a Firebaser, Raj Gundluru, Engineering Program Manager for Firebase @Google",
+        "url": "https://events.withgoogle.com/firebase-virtual-meetup/agenda/?linkId=88155336#content",
+        "tags": ["firebase"],
+        "title": "May 14th - Coffee with a Firebaser",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        }
+    }
+}
