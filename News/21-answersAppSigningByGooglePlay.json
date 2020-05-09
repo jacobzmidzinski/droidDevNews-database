@@ -1,0 +1,16 @@
+{
+    "21-answersAppSigningByGooglePlay": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1588982400
+        },
+        "description": "In this article, Wojtek Kaliciński helps us understand how App Signing by Google Play works underneath",
+        "url": "https://medium.com/androiddevelopers/answers-to-common-questions-about-app-signing-by-google-play-b28fef836af0",
+        "tags": ["android"],
+        "title": "Answers to common questions about App Signing by Google Play",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        }
+    }
+}
