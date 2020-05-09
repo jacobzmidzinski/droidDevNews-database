@@ -1,0 +1,20 @@
+{
+    "20-mobileConf2020": {
+        "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FmobileConfThailand.png?alt=media&token=9955b08c-c42e-4474-aede-08f61430be5d",
+        "endDate": {
+            "_seconds": 1598659200
+        },
+        "url": "mobileconfth.com",
+        "startDate": {
+            "_seconds": 1598659200
+        },
+        "city": "Bangkok",
+        "country": "Thailand",
+        "name": "Mobile Conf Thailand",
+        "coordinates": {
+            "_latitude": 13.733642,
+            "_longitude": 100.5658592
+        },
+        "tags": ["tickets"]
+    }
+}
