@@ -37,6 +37,8 @@
 * article
 * podcast
 * video
+* meetup
+* online_meetup
 
 ### Events
 
