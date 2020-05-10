@@ -1,5 +1,7 @@
 # How to contribute?
 
+![droidDevNews](../featureGraphic.png)
+
 ## Commit message template / Pull request title
 
 Commit messages or pull request titles should look like so: **Method Subject: Title**
