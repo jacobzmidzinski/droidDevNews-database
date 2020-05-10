@@ -5,11 +5,13 @@
 
 ### The idea
 
-The idea behind droidDevNews is to create a place for Android Developers, where they can find interesting articles, podcasts and videos, curated by other developers. Updated daily, thanks to the community.
+The idea behind droidDevNews is to create a place for Android Developers, where they can find interesting articles, podcasts and videos, curated by other developers.
 
-droidDevNews is Android developer app with news and events 🧑🏼‍💻 (currently I’m working on Android version on the app, but I also plan to develop iOS version). 
+So, basicly droidDevNews is Android developer hub with news and events 👨🏼‍💻(currently I'm working on Android version on the app, but I also plan to develop iOS version).
 
-If you want to be an alpha tester of the app, just click the link below and sign-up through Firebase App Distribution 🧑🏼‍🚀
+App is already released on Google Play - feel free to use it! 🧑🏼‍🚀
+
+If you want to be an beta tester of the app, just click the link below and sign-up through Firebase App Distribution 🧑🏼‍🚀
 
 [Google Play 🚀](https://play.google.com/store/apps/details?id=com.jacobzmidzinski.droiddevnews)
 
