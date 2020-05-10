@@ -29,6 +29,7 @@
 * firebase
 * google developers
 * kotlin
+* ktx
 * lifestyle
 * podcast
 
