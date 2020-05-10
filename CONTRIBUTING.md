@@ -1,6 +1,14 @@
 # How to contribute?
 
-### News
+## Commit message template / Pull request title
+
+Commit messages or pull request titles should look like so: **Method Subject: Title**
+
+- Method: **Add, Update** or **Delete**
+- Subject: **News, Event** or **Contributor**
+- Title: E.g. title of the article or name of the event
+
+## News
 
 ##### JSON template
 ```
@@ -41,7 +49,7 @@
 * **meetup**, means that link redirects user to meetup sign-up page
 * **online_meetup**, means that link redirects user to online meetup sign-up page
 
-### Events
+## Events
 
 ##### JSON template
 ```
@@ -71,3 +79,15 @@
 
 * **tickets**, means that tickets are available for purchase
 * **online**, means that event takes place online
+
+## Contributors
+
+##### JSON template
+```
+{
+    "jacobZmidzinski": {
+        "name": "Jacob Zmidzinski",
+        "url": "https://firebase.googleblog.com/2020/03/firebase-kotlin-ga.html"
+    }
+}
+```
