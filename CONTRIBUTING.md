@@ -25,13 +25,13 @@
 
 ##### News Tags
 
-* android
-* firebase
-* google developers
-* kotlin
-* ktx
-* lifestyle
-* podcast
+* **android**
+* **firebase**
+* **google developers**
+* **kotlin**
+* **ktx**
+* **lifestyle**
+* **podcast**
 
 ##### News Content Type
 
