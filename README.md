@@ -10,9 +10,11 @@ The idea behind droidDevNews is to create a place for Android Developers, where 
 So, basicly droidDevNews is Android developer hub with news and events 👨🏼‍💻(currently I'm working on Android version on the app, but I also plan to develop iOS version).
 
 App is already released on Google Play - feel free to use it! 🧑🏼‍🚀
+
 [Google Play 🚀](https://play.google.com/store/apps/details?id=com.jacobzmidzinski.droiddevnews)
 
 If you want to be an beta tester of the app, just click the link below and sign-up through Firebase App Distribution 🧑🏼‍🚀
+
 [Beta version Sign-up 🚀](https://appdistribution.firebase.dev/i/VsejwYW9)
 
 ### Questions
