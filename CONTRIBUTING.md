@@ -1,6 +1,6 @@
-# How to contribute?
+![droidDevNews](./featureGraphic.png)
 
-![droidDevNews](../featureGraphic.png)
+# How to contribute?
 
 ## Commit message template / Pull request title
 
