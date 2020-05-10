@@ -1,0 +1,16 @@
+{
+    "22-kotlinWeekly197": {
+        "tags": ["kotlin"],
+        "title": "Kotlin Weekly #197",
+        "curator": {
+            "name": "Jacob Zmidzinski",
+            "url": "https://jacobzmidzinski.com"
+        },
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1589068800
+        },
+        "description": "This edition of Kotlin Weekly includes articles about Kotlin Flow, coroutines (classic), Dagger2 tricks and more",
+        "url": "https://mailchi.mp/kotlinweekly/kotlin-weekly-197"
+    }
+}
