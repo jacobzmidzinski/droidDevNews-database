@@ -35,11 +35,11 @@
 
 ##### News Content Type
 
-* article, means that link redirects user to article
-* podcast, means that link redirects user to podcast
-* video, means that link redirects user to e.g. YouTube video
-* meetup, means that link redirects user to meetup sign-up page
-* online_meetup, means that link redirects user to online meetup sign-up page
+* **article**, means that link redirects user to article
+* **podcast**, means that link redirects user to podcast
+* **video**, means that link redirects user to e.g. YouTube video
+* **meetup**, means that link redirects user to meetup sign-up page
+* **online_meetup**, means that link redirects user to online meetup sign-up page
 
 ### Events
 
@@ -69,5 +69,5 @@
 
 ##### Events Tags
 
-* tickets, means that tickets are available for purchase
-* online, means that event takes place online
+* **tickets**, means that tickets are available for purchase
+* **online**, means that event takes place online
