@@ -66,7 +66,7 @@ Commit messages or pull request titles should look like so: **Method Subject: Ti
             "_seconds": 1605571200
         },
         "city": "New York",
-        "country": "United States of America",
+        "country": "USA",
         "name": ".droidCon NYC",
         "coordinates": {
             "_latitude": 40.7281787,
