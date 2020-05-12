@@ -2,14 +2,17 @@
     "18-mobius-online-2020": {
         "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2Fmobius.jpeg?alt=media&token=a9b1a6f8-fb3e-44c5-b97c-9490cbb32bb6",
         "endDate": {
-            "_seconds": 1593043200
+            "_seconds": 1593113400
         },
         "url": "mobius-piter.ru/en",
+        "websiteUrl": "https://mobius-piter.ru/en",
+        "twitterUrl" : "https://twitter.com/MobiusConf",
         "startDate": {
-            "_seconds": 1592784000
+            "_seconds": 1592821800
         },
         "city": "St. Petersburg",
         "country": "Russia",
+        "venueName" : "Online",
         "name": "mobius - online",
         "coordinates": {
             "_latitude": 59.8425633,
