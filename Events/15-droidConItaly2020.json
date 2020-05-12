@@ -3,16 +3,17 @@
         "tags": ["tickets"],
         "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FdroidConItaly.jpg?alt=media&token=4d8235e1-0263-41de-bd1f-0c6ece8bae7a",
         "endDate": {
-            "_seconds": 1606521600,
-            "_nanoseconds": 0
+            "_seconds": 1606521600
         },
         "url": "it.droidcon.com/2020",
+        "websiteUrl": "https://it.droidcon.com/2020",
+        "twitterUrl": "https://twitter.com/Droidconit",
         "startDate": {
-            "_seconds": 1606435200,
-            "_nanoseconds": 0
+            "_seconds": 1606435200
         },
         "city": "Turin",
         "country": "Italy",
+        "venueName": "OGR - Officine Grandi Riparazioni",
         "name": ".droidcon Italy",
         "coordinates": {
             "_latitude": 45.066396,
