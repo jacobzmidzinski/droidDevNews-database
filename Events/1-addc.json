@@ -7,12 +7,15 @@
             "_nanoseconds": 0
         },
         "url": "addconf.com/2020",
+        "websiteUrl": "https://addconf.com/2020",
+        "twitterUrl" : "https://twitter.com/addconf",
         "startDate": {
             "_seconds": 1624406400,
             "_nanoseconds": 0
         },
         "city": "Barcelona",
         "country": "Spain",
+        "venueName" : "ADDC - App Design & Development Conference",
         "name": "ADDC",
         "coordinates": {
             "_latitude": 41.389561,
