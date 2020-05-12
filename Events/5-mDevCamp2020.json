@@ -1,6 +1,7 @@
 {
     "5-mDevCamp2020": {
         "country": "Czech Republic",
+        "venueName": "Online",
         "name": "mDevCamp",
         "coordinates": {
             "_latitude": 50.0616693,
@@ -9,12 +10,13 @@
         "tags": ["online", "tickets"],
         "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FmDevCamp.png?alt=media&token=04f24d1f-2500-4535-bed6-ce92272e4ae9",
         "endDate": {
-            "_seconds": 1591833600,
-            "_nanoseconds": 0
+            "_seconds": 1591894800
         },
         "url": "mdevcamp.eu",
+        "websiteUrl": "https://mdevcamp.eu",
+        "twitterUrl": "https://twitter.com/mDevCamp",
         "startDate": {
-            "_seconds": 1591747200
+            "_seconds": 1591794000
         },
         "city": "Prague"
     }
