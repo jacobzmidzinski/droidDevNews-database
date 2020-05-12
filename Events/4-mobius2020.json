@@ -5,11 +5,14 @@
             "_seconds": 1604966400
         },
         "url": "mobius-piter.ru/en",
+        "websiteUrl": "https://mobius-piter.ru/en",
+        "twitterUrl" : "https://twitter.com/MobiusConf",
         "startDate": {
             "_seconds": 1604880000
         },
         "city": "Moscow",
         "country": "Russia",
+        "venueName" : "World Trade Center, Moscow",
         "name": "mobius",
         "coordinates": {
             "_latitude": 55.7553447,
