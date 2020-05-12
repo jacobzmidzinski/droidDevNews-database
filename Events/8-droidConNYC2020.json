@@ -5,11 +5,14 @@
             "_seconds": 1605657600
         },
         "url": "nyc.droidcon.com",
+        "websiteUrl": "https://nyc.droidcon.com",
+        "twitterUrl": "https://twitter.com/droidconNYC",
         "startDate": {
             "_seconds": 1605571200
         },
         "city": "New York",
         "country": "USA",
+        "venueName" : "Brooklyn Expo Center",
         "name": ".droidCon NYC",
         "coordinates": {
             "_latitude": 40.7281787,
