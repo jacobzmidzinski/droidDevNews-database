@@ -7,12 +7,15 @@
             "_nanoseconds": 0
         },
         "url": "androidmakers.fr",
+        "websiteUrl": "https://androidmakers.fr/",
+        "twitterUrl" : "https://twitter.com/AndroidMakersFR",
         "startDate": {
             "_seconds": 1587340800,
             "_nanoseconds": 0
         },
         "city": "Paris",
         "country": "France",
+        "venueName" : "Online",
         "name": "AndroidMakers",
         "coordinates": {
             "_latitude": 48.8191833,
