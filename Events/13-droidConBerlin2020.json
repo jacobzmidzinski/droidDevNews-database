@@ -2,6 +2,7 @@
     "13-droidConBerlin2020": {
         "name": ".droidcon Berlin",
         "country": "Germany",
+        "venueName" : "CityCube Berlin",
         "coordinates": {
             "_latitude": 52.5041661,
             "_longitude": 13.2714653
@@ -12,6 +13,8 @@
             "_seconds": 1602201600
         },
         "url": "berlin.droidcon.com",
+        "websiteUrl": "https://berlin.droidcon.com",
+        "twitterUrl": "https://twitter.com/droidconberlin",
         "startDate": {
             "_seconds": 1602028800
         },
