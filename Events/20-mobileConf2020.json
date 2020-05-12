@@ -5,12 +5,15 @@
             "_seconds": 1598659200
         },
         "url": "mobileconfth.com",
+        "websiteUrl": "https://mobileconfth.com",
+        "twitterUrl": "https://twitter.com/mobileconfth",
         "startDate": {
             "_seconds": 1598659200
         },
         "city": "Bangkok",
         "country": "Thailand",
         "name": "Mobile Conf Thailand",
+        "venueName" : "S31 Sukhumvit Hotel, Bangkok",
         "coordinates": {
             "_latitude": 13.733642,
             "_longitude": 100.5658592
