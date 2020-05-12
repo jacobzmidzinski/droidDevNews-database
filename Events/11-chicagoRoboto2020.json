@@ -2,6 +2,7 @@
     "11-chicagoRoboto2020": {
         "city": "Chicago",
         "country": "USA",
+        "venueName" : "One North Wacker, Chicago",
         "name": "Chicago Roboto",
         "coordinates": {
             "_latitude": 41.8822586,
@@ -10,13 +11,13 @@
         "tags": ["tickets"],
         "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FchicagoRoboto.png?alt=media&token=698c9b70-16b1-4f31-b75b-2c4e90641032",
         "endDate": {
-            "_seconds": 1601337600,
-            "_nanoseconds": 0
+            "_seconds": 1601337600
         },
         "url": "chicagoroboto.com",
+        "websiteUrl": "https://chicagoroboto.com",
+        "twitterUrl": "https://twitter.com/chicagoroboto",
         "startDate": {
-            "_seconds": 1601251200,
-            "_nanoseconds": 0
+            "_seconds": 1601251200
         }
     }
 }
