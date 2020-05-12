@@ -2,16 +2,17 @@
     "10-droidConLisbon2020": {
         "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FdroidConLisbon.png?alt=media&token=3e2a6bdf-aaf1-4c72-881c-d2a0fab1df97",
         "endDate": {
-            "_seconds": 1600992000,
-            "_nanoseconds": 0
+            "_seconds": 1600992000
         },
         "url": "lisbon.droidcon.com",
+        "websiteUrl": "https://lisbon.droidcon.com",
+        "twitterUrl": "https://twitter.com/droidconlisbon",
         "startDate": {
-            "_seconds": 1600905600,
-            "_nanoseconds": 0
+            "_seconds": 1600905600
         },
         "city": "Lisbon",
         "country": "Portugal",
+        "venueName" : "Lispolis - Parque Tecnológico de Lisboa (Lisbon Tech Park)",
         "name": ".droidcon Lisbon",
         "coordinates": {
             "_latitude": 38.7666347,
