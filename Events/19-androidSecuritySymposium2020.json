@@ -5,11 +5,14 @@
             "_seconds": 1594080000
         },
         "url": "android.ins.jku.at/symposium",
+        "websiteUrl": "https://android.ins.jku.at/symposium",
+        "twitterUrl": "https://twitter.com/hashtag/AndroidSecuritySymposium",
         "startDate": {
             "_seconds": 1593993600
         },
         "city": "Linz",
         "country": "Austria",
+        "venueName": "Online",
         "name": "Android Security Symposium",
         "coordinates": {
             "_latitude": 0,
