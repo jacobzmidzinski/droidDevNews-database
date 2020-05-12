@@ -2,6 +2,7 @@
     "14-droidConLondon2020": {
         "city": "London",
         "country": "United Kingdom",
+        "venueName" : "Business Design Center, London",
         "name": ".droidcon London",
         "coordinates": {
             "_latitude": 51.5354962,
@@ -10,13 +11,13 @@
         "tags": ["tickets", "cfp"],
         "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FdroidConLondon.png?alt=media&token=c14ffe54-42e8-4e6d-8220-2d7f8f0d736c",
         "endDate": {
-            "_seconds": 1604016000,
-            "_nanoseconds": 0
+            "_seconds": 1604016000
         },
         "url": "london.droidcon.com",
+        "websiteUrl": "https://london.droidcon.com",
+        "twitterUrl": "https://twitter.com/droidconberlin",
         "startDate": {
-            "_seconds": 1603929600,
-            "_nanoseconds": 0
+            "_seconds": 1603929600
         }
     }
 }
