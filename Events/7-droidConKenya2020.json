@@ -3,16 +3,17 @@
         "tags": ["tickets"],
         "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FdroidConKenya.png?alt=media&token=7de875ef-6041-4c31-9e49-63459a201cb5",
         "endDate": {
-            "_seconds": 1596844800,
-            "_nanoseconds": 0
+            "_seconds": 1596844800
         },
         "url": "droidcon.co.ke",
+        "websiteUrl": "https://droidcon.co.ke",
+        "twitterUrl": "https://twitter.com/droidconke",
         "startDate": {
-            "_seconds": 1596672000,
-            "_nanoseconds": 0
+            "_seconds": 1596672000
         },
         "city": "Nairobi",
         "country": "Kenya",
+        "venueName" : "iHub, Nairobi, Kenya",
         "name": ".droidConKe",
         "coordinates": {
             "_latitude": -1.2892173,
