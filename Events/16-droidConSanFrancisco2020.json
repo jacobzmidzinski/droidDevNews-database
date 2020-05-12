@@ -1,12 +1,14 @@
 {
     "16-droidConSanFrancisco2020": {
         "url": "sf.droidcon.com",
+        "websiteUrl": "https://sf.droidcon.com",
+        "twitterUrl": "https://twitter.com/droidconsf",
         "startDate": {
-            "_seconds": 1607904000,
-            "_nanoseconds": 0
+            "_seconds": 1607904000
         },
         "city": "San Francisco",
         "country": "USA",
+        "venueName": "Mission Bay Conference Center",
         "name": ".droidcon San Francisco",
         "coordinates": {
             "_latitude": 37.7678058,
@@ -15,8 +17,7 @@
         "tags": ["tickets", "cfp"],
         "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FdroidConSanFrancisco.png?alt=media&token=1c6d2b87-3b0f-4c7a-b246-74d11752faaa",
         "endDate": {
-            "_seconds": 1607990400,
-            "_nanoseconds": 0
+            "_seconds": 1607990400
         }
     }
 }
