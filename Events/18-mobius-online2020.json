@@ -15,8 +15,8 @@
         "venueName" : "Online",
         "name": "mobius - online",
         "coordinates": {
-            "_latitude": 59.8425633,
-            "_longitude": 30.3186681
+            "_latitude": 0.0,
+            "_longitude": 0.0
         },
         "tags": ["online", "tickets"]
     }
