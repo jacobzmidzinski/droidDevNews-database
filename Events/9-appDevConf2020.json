@@ -6,12 +6,15 @@
             "_nanoseconds": 0
         },
         "url": "appdevcon.nl",
+        "websiteUrl": "https://appdevcon.nl",
+        "twitterUrl": "https://twitter.com/droidconNYC",
         "startDate": {
             "_seconds": 1600128000,
             "_nanoseconds": 0
         },
         "city": "Amsterdam",
         "country": "Netherlands",
+        "venueName" : "Vijzelstraat 15, Amsterdam",
         "name": "Appdevcon",
         "coordinates": {
             "_latitude": 52.3664504,
