@@ -1,0 +1,16 @@
+{
+    "23-newFormFactorsWithJetpackWindowManager": {
+        "tags": ["android"],
+        "title": "Support New Form Factors with the new Jetpack WindowManager Library",
+        "curator": {
+            "name": "Jacob Zmidzinski",
+            "url": "https://jacobzmidzinski.com"
+        },
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1589328000
+        },
+        "description": "Wondering how to adjust UI of your app to Samsung Galaxy Z Flip or other foldable device? Jetpack WindowManager Library might be helpful",
+        "url": "https://medium.com/androiddevelopers/support-new-form-factors-with-the-new-jetpack-windowmanager-library-4be98f5450da"
+    }
+}
