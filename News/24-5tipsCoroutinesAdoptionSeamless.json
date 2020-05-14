@@ -1,0 +1,16 @@
+{
+    "24-5tipsCoroutinesAdoptionSeamless": {
+        "tags": ["android"],
+        "title": "5 tips to make Kotlin coroutines adoption seamless",
+        "curator": {
+            "name": "Jacob Zmidzinski",
+            "url": "https://jacobzmidzinski.com"
+        },
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1589414400
+        },
+        "description": "Anastasia Finogenova shares thoughts on how to seamlessly adopt coroutines in your project",
+        "url": "https://proandroiddev.com/5-tips-to-make-kotlin-coroutines-adoption-seamless-6590c3d38f9d"
+    }
+}
