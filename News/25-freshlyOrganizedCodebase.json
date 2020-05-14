@@ -1,0 +1,16 @@
+{
+    "25-organizedCodebase": {
+        "tags": ["code"],
+        "title": "Happiness is… a freshly organized codebase",
+        "curator": {
+            "name": "Jacob Zmidzinski",
+            "url": "https://jacobzmidzinski.com"
+        },
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1589414400
+        },
+        "description": "Interesting article on how difficult is huge codebase management and why you should improve it iterateavely, like iOS team @Slack",
+        "url": "https://slack.engineering/happiness-is-a-freshly-organized-codebase-7ffa6590a70d"
+    }
+}
