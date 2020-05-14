@@ -56,23 +56,25 @@ Commit messages or pull request titles should look like so: **Method Subject: Ti
 ##### JSON template
 ```
 {
-    "8-droidConNYC2020": {
-        "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FdroidConNYC.png?alt=media&token=66b77e2a-3101-4d2d-ad22-c44955040559",
-        "endDate": {
-            "_seconds": 1605657600
-        },
-        "url": "nyc.droidcon.com",
+    "16-droidConSanFrancisco2020": {
+        "websiteUrl": "https://sf.droidcon.com",
+        "twitterUrl": "https://twitter.com/droidconsf",
         "startDate": {
-            "_seconds": 1605571200
+            "_seconds": 1607904000
         },
-        "city": "New York",
+        "city": "San Francisco",
         "country": "USA",
-        "name": ".droidCon NYC",
+        "venueName": "Mission Bay Conference Center",
+        "name": ".droidcon San Francisco",
         "coordinates": {
-            "_latitude": 40.7281787,
-            "_longitude": -73.9600141
+            "_latitude": 37.7678058,
+            "_longitude": -122.3933172
         },
-        "tags": ["tickets", "CFP"]
+        "tags": ["tickets", "cfp"],
+        "logo": "https://firebasestorage.googleapis.com/v0/b/mobile-development-272712.appspot.com/o/images%2FdroidConSanFrancisco.png?alt=media&token=1c6d2b87-3b0f-4c7a-b246-74d11752faaa",
+        "endDate": {
+            "_seconds": 1607990400
+        }
     }
 }
 ```
