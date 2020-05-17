@@ -1,0 +1,16 @@
+{
+    "26-playingWithNewMergeAdapter": {
+        "tags": ["android"],
+        "title": "Playing with the new MergeAdapter on Android",
+        "curator": {
+            "name": "Jacob Zmidzinski",
+            "url": "https://jacobzmidzinski.com"
+        },
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1589673600
+        },
+        "description": "How to implement a list with multiple item types? There are at least 3 ways of doing that (one proper 🧙‍♂️)",
+        "url": "https://proandroiddev.com/playing-with-the-new-mergeadapter-on-android-8da514c45ca6"
+    }
+}
