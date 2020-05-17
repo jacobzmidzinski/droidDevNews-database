@@ -1,0 +1,16 @@
+{
+    "27-kotlin14-m2preview": {
+        "tags": ["kotlin"],
+        "title": "First Look at Kotlin 1.4-M2: Standard Library Improvements",
+        "curator": {
+            "name": "Jacob Zmidzinski",
+            "url": "https://jacobzmidzinski.com"
+        },
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1589673600
+        },
+        "description": "Next preview of Kotlin 1.4 is here! More functions in the common library, arrays and collections API. Also property delegation improvements",
+        "url": "https://blog.jetbrains.com/kotlin/2020/05/1-4-m2-standard-library/?utm_source=banner&utm_medium=kotlinlang&utm_campaign=stdlib_M2"
+    }
+}
