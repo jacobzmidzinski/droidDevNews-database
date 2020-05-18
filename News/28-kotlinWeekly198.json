@@ -1,0 +1,16 @@
+{
+    "28-kotlinWeekly198": {
+        "tags": ["kotlin"],
+        "title": "Kotlin Weekly #198",
+        "curator": {
+            "name": "Jacob Zmidzinski",
+            "url": "https://jacobzmidzinski.com"
+        },
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1589760000
+        },
+        "description": "This edition of Kotlin Weekly includes articles about news in Kotlin 1.4-M2, Koin, Kotlin based replacement for ADB and more",
+        "url": "https://mailchi.mp/kotlinweekly/kotlin-weekly-198"
+    }
+}
