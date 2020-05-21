@@ -1,0 +1,16 @@
+{
+    "30-nowInAndroid18": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1590019200
+        },
+        "description": "In this \"Now In Android\" Chet Haase covers news in Android 11: Developer Preview 4, Gesture navigation and 139th episode of ADB podcast",
+        "url": "https://medium.com/androiddevelopers/now-in-android-18-4ee70b267765",
+        "tags": ["android"],
+        "title": "Now In Android #18",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        }
+    }
+}
