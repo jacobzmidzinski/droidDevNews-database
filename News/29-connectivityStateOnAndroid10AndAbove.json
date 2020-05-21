@@ -1,0 +1,16 @@
+{
+    "29-connectivityStateOnAndroid10AndAbove": {
+        "tags": ["android"],
+        "title": "Connectivity State on Android 10 and Above",
+        "curator": {
+            "name": "Jacob Zmidzinski",
+            "url": "https://jacobzmidzinski.com"
+        },
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1589760000
+        },
+        "description": "Short article about handling connectivity state on Android 10 and above.",
+        "url": "https://www.droidcon.com/news-detail?content-id=/repository/collaboration/Groups/spaces/droidcon_hq/Documents/public/news/android-news/Connectivity%20State%20on%20Android%2010%20and%20Above"
+    }
+}
