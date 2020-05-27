@@ -1,0 +1,16 @@
+{
+    "32-aLookIntoKotlinKAPT": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1590192000
+        },
+        "description": "Short explanation on KAPT - Kotlin Annotation Processing Tool",
+        "url": "https://levelup.gitconnected.com/a-look-into-kotlin-kapt-for-android-code-in-mobile-46ca10d8cb63",
+        "tags": ["android"],
+        "title": "A look into Kotlin KAPT for Android",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        }
+    }
+}
