@@ -1,0 +1,16 @@
+{
+    "33-droidConOnlineAdvancedKotlin2": {
+        "contentType": "online_meetup",
+        "publishDate": {
+            "_seconds": 1590537600
+        },
+        "description": "droidCon Online webinar on Advanced Kotlin, part 2. Starts tommorow at 5PM CET",
+        "url": "https://www.online.droidcon.com/advanced-kotlin-2",
+        "tags": ["android"],
+        "title": "droidCon Online - Advanced Kotlin Series, Part 2 of 3",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        }
+    }
+}
