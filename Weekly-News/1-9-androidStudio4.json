@@ -1,0 +1,17 @@
+{
+    "1-9-androidStudio4": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1590710400
+        },
+        "description": "Check out whats new in the lastes release of Android Studio",
+        "url": "https://android-developers.googleblog.com/2020/05/android-studio-4.html",
+        "tags": ["android"],
+        "title": "Android Studio 4.0 🥳",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "1"
+    }
+}
