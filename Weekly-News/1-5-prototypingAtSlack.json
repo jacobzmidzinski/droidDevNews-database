@@ -1,0 +1,17 @@
+{
+    "1-5-prototypingAtSlack": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1590537600
+        },
+        "description": "Kyle Stetz on how the Slack they approach prototyping @Slack",
+        "url": "https://slack.engineering/prototyping-at-slack-b1ec3a298226",
+        "tags": ["design"],
+        "title": "Prototyping at Slack",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "1"
+    }
+}

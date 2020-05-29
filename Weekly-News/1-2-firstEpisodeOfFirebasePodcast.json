@@ -1,0 +1,17 @@
+{
+    "1-2-firstEpisodeOfFirebasePodcast": {
+        "contentType": "podcast",
+        "publishDate": {
+            "_seconds": 1590019200
+        },
+        "description": "The long-awaited first episode of The Firebase Podcast! ",
+        "url": "https://podcasts.google.com/feed/aHR0cDovL2ZpcmViYXNlcG9kY2FzdC5nb29nbGVkZXZlbG9wZXJzLmxpYnN5bnByby5jb20vcnNz/episode/NzE0YzY5MTQtZDFjMi00ZjBjLWIwMDktMTljZGJkMzBmODYx?hl=pl&ved=2ahUKEwjQ9fzqnMXpAhUnxosKHZKKBDcQjrkEegQIChAE&ep=6",
+        "tags": ["firebase"],
+        "title": "The Firebase Podcast: Firebase Hosting, an origin story",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "1"
+    }
+}

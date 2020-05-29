@@ -1,0 +1,17 @@
+{
+    "1-4-firebaseLive2020": {
+        "tags": ["firebase"],
+        "title": "Firebase Live 2020",
+        "curator": {
+            "name": "Jacob Zmidzinski",
+            "url": "https://jacobzmidzinski.com"
+        },
+        "contentType": "online_meetup",
+        "publishDate": {
+            "_seconds": 1588723200
+        },
+        "description": "\"Firebase Live is a web series for app developers consisting of talks, tips, and technical tutorials aimed at increasing their productivity, knowledge, and collaboration.\"",
+        "url": "https://firebaseonair.withgoogle.com/events/firebase-live20",
+        "weekly": "1"
+    }
+}

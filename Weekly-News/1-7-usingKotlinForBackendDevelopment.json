@@ -1,0 +1,17 @@
+{
+    "1-7-usingKotlinForBackendDevelopment": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1590537600
+        },
+        "description": "Brief overview of Kotlin as a good backend choice, with some very basic Ktor examples",
+        "url": "https://www.toptal.com/kotlin/kotlin-server-side-development",
+        "tags": ["kotlin"],
+        "title": "Using Kotlin for Back-end Development: A Quick Overview",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "1"
+    }
+}

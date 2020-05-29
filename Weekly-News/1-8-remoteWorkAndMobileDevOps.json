@@ -1,0 +1,17 @@
+{
+    "1-8-remoteWorkAndMobileDevOps": {
+        "contentType": "podcast",
+        "publishDate": {
+            "_seconds": 1590537600
+        },
+        "description": "Remote work & Mobile DevOps",
+        "url": "https://anchor.fm/bitrise/episodes/Remote-work--Mobile-DevOps-ee7gh8",
+        "tags": ["code"],
+        "title": "\"This episode features special guest Joe Birch and focuses on different aspects of remote work, Mobile DevOps, and how to remain productive from home.\"",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "1"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "1-3-android11theBetaLaunchShow": {
+        "tags": ["android"],
+        "title": "#Android11: The Beta Launch Show",
+        "curator": {
+            "name": "Jacob Zmidzinski",
+            "url": "https://jacobzmidzinski.com"
+        },
+        "contentType": "video",
+        "publishDate": {
+            "_seconds": 1588723200
+        },
+        "description": "Next wednesday, June 3, 11 AM ET - #Android11 The Beta Launch Show!",
+        "url": "https://www.youtube.com/watch?v=gqJEcy57hA8",
+        "weekly": "1"
+    }
+}
