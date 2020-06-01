@@ -1,0 +1,16 @@
+{
+    "37-duolingoCompletesMigrationToKotlin": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1590969600
+        },
+        "description": "Thanks to migration, they reduced its line count by an average of 30%! Also their developers satisfaction skyroceted!",
+        "url": "https://developer.android.com/stories/apps/duolingo-kotlin",
+        "tags": ["google developers"],
+        "title": "Duolingo completes migration to Kotlin",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        }
+    }
+}
