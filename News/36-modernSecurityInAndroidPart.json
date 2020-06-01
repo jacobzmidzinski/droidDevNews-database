@@ -1,0 +1,16 @@
+{
+    "36-modernSecurityInAndroidPart": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1590969600
+        },
+        "description": "Parts 1-3 of blog post series about Modern Security for Android Developers",
+        "url": "https://medium.com/knowing-android/modern-security-in-android-part-1-6282bcb71e6c",
+        "tags": ["android"],
+        "title": "Modern Security in Android",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        }
+    }
+}
