@@ -1,0 +1,16 @@
+{
+    "35-stateOfKotlinScripting": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1590969600
+        },
+        "description": "Whats is Kotlin Scripting? What is Kscript? What is Kotlin-main-kts? Here are the answers",
+        "url": "https://medium.com/@mbonnin/may-2020-the-state-of-kotlin-scripting-99cb6cc57db1",
+        "tags": ["kotlin"],
+        "title": "May 2020: The state of Kotlin Scripting",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        }
+    }
+}
