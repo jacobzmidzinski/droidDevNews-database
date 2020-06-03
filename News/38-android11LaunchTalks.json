@@ -1,0 +1,16 @@
+{
+    "38-android11LaunchTalks": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1591142400
+        },
+        "description": "List of 12 talks on Android development topics",
+        "url": "https://developer.android.com/android11",
+        "tags": ["android"],
+        "title": "#Android11: The Beta Launch - Talks",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        }
+    }
+}
