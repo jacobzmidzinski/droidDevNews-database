@@ -1,0 +1,17 @@
+{
+    "2-1-buildingScrumPokerAppUsingMotionLayout": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1590624000
+        },
+        "description": "Matias Isellas's on how to use MotionLayout in Android Studio 4.0 Motion Editor",
+        "url": "https://medium.com/glovo-engineering/building-a-scrum-poker-app-using-motionlayout-3cc5cb00f23b",
+        "tags": ["android"],
+        "title": "Building a Scrum Poker App using MotionLayout",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "2"
+    }
+}
