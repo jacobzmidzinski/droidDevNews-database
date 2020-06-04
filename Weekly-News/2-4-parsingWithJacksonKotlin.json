@@ -1,0 +1,17 @@
+{
+    "2-4-parsingWithJacksonKotlin": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1590624000
+        },
+        "description": "\"An introduction to Jackson Kotlin module and Kotlin nullable type for missing values in data\"",
+        "url": "https://www.droidcon.com/news-detail?content-id=/repository/collaboration/Groups/spaces/droidcon_hq/Documents/public/news/android-news/Parsing%20with%20Jackson%20and%20Kotlin",
+        "tags": ["kotlin"],
+        "title": "Parsing with Jackson and Kotlin",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "2"
+    }
+}
