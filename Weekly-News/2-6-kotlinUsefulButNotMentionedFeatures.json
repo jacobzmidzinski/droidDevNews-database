@@ -1,0 +1,17 @@
+{
+    "2-6-kotlinUsefulButNotMentionedFeatures": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1590624000
+        },
+        "description": "Vasya Drobushkov is exploring some great Kotlin features which are not so widely  discussed",
+        "url": "https://www.droidcon.com/news-detail?content-id=/repository/collaboration/Groups/spaces/droidcon_hq/Documents/public/news/android-news/Kotlin%20useful%20but%20unfairly%20not%20mentioned%20features",
+        "tags": ["kotlin"],
+        "title": "Kotlin useful but unfairly not mentioned features",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "2"
+    }
+}
