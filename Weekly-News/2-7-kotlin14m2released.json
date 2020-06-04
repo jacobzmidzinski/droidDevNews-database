@@ -1,0 +1,17 @@
+{
+    "2-7-kotlin14m2released": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1590624000
+        },
+        "description": "Vasya Drobushkov is exploring some great Kotlin features which are not so widely  discussed",
+        "url": "https://blog.jetbrains.com/kotlin/2020/06/kotlin-1-4-m2-released/",
+        "tags": ["kotlin"],
+        "title": "Kotlin 1.4-M2 Released",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "2"
+    }
+}
