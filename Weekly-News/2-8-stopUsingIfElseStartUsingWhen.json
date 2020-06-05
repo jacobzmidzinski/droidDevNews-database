@@ -1,0 +1,17 @@
+{
+    "2-8-stopUsingIfElseStartUsingWhen": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1590624000
+        },
+        "description": "Billy Dharmawan on why you should use when over traditional if-else statement",
+        "url": "https://medium.com/better-programming/stop-using-if-else-and-start-using-when-in-kotlin-96485c2a51d2",
+        "tags": ["kotlin"],
+        "title": "Stop Using If-Else and Start Using When in Kotlin",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "2"
+    }
+}
