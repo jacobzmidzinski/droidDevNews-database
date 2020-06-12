@@ -1,0 +1,16 @@
+{
+    "40-firebaeLive2020": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1591920000
+        },
+        "description": "\"To show respect for current events, we are postponing the launch of Firebase Live to June 23rd.\"",
+        "url": "https://firebaseonair.withgoogle.com/events/firebase-live20",
+        "tags": ["kotlin"],
+        "title": "Firebase Live 2020 postponed by two weeks",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        }
+    }
+}
