@@ -1,0 +1,17 @@
+{
+    "3-5-kotlinScopeFunctions": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1591920000
+        },
+        "description": "Kotlin scope functions - pretty basic buy very useful stuff that every Kotlin developer should use",
+        "url": "https://blog.usejournal.com/understanding-kotlin-scope-functions-7328812acf19?source=extreme_main_feed---------1-58--------------------9ce39fc5_dfb7_493b_bbc4_fd4378dea509--6&gi=2d97384659f8",
+        "tags": ["kotlin"],
+        "title": "Understanding Kotlin scope functions",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "3"
+    }
+}
