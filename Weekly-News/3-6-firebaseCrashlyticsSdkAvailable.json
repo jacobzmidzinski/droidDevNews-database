@@ -1,0 +1,17 @@
+{
+    "3-6-firebaseCrashlyticsSdkAvailable": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1591920000
+        },
+        "description": "After Beta announcement in February, general release is now available",
+        "url": "https://firebase.googleblog.com/2020/06/crashlytics-sdk-now-available.html",
+        "tags": ["firebase"],
+        "title": "The Firebase Crashlytics SDK is now publicly available! ",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "3"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "3": {
+        "title": "Weekly #3",
+        "description": "Due to current situation Firebase Live is postponed. With little delay, Android 11 Beta is available, as well as Hilt - new dependency injection library, tailored for Android Jetpack",
+        "publishDate": {
+            "_seconds": 1591920000
+        }
+    }
+}
