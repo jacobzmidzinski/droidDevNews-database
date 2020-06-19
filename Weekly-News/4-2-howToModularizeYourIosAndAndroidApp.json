@@ -1,0 +1,17 @@
+{
+    "4-2-howToModularizeYourIosAndAndroidApp": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1592524800
+        },
+        "description": "As your projects grows, modularization of your Android (and iOS) app becomes very important and useful",
+        "url": "https://medium.com/better-programming/modularize-ios-and-android-app-67678f2688dc",
+        "tags": ["android"],
+        "title": "How to Modularize Your iOS and Android Apps",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "4"
+    }
+}
