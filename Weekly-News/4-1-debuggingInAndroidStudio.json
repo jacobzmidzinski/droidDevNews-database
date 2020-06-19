@@ -1,0 +1,17 @@
+{
+    "4-1-debuggingInAndroidStudio": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1592524800
+        },
+        "description": "Tips and tricks for squashing bugs faster on Android by David Herman",
+        "url": "https://medium.com/androiddevelopers/debugging-in-android-studio-dfbbf8a8d03c",
+        "tags": ["android"],
+        "title": "Debugging in Android Studio",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "4"
+    }
+}
