@@ -1,0 +1,17 @@
+{
+    "3-2-whatsNewInAndroidJetpack": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1591920000
+        },
+        "description": "Hilt, Paging 3, App Startup, Auto-fill IME integrations and more!",
+        "url": "https://medium.com/androiddevelopers/whats-new-in-jetpack-1891d205e136",
+        "tags": ["android"],
+        "title": "What’s new in Jetpack",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "3"
+    }
+}

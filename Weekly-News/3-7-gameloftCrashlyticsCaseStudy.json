@@ -1,0 +1,17 @@
+{
+    "3-7-gameloftCrashlyticsCaseStudy": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1591920000
+        },
+        "description": "Patrick Martin, Developer Advocate @Google on why Gameloft turned to Crashlytics and how it improved quality",
+        "url": "https://firebase.googleblog.com/2020/06/Gameloft-Crashlytics-game-case-study.html",
+        "tags": ["firebase"],
+        "title": "How Gameloft uses Crashlytics to lower crash rates and increase engagement",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "3"
+    }
+}
