@@ -1,0 +1,17 @@
+{
+    "4-3-11weeksOfAndroidPeopleAndIdentity": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1592524800
+        },
+        "description": "A first article from #11WeeksOfAndroid series. Topic: People & Identity",
+        "url": "https://android-developers.googleblog.com/2020/06/11-weeks-of-android-people-identity.html",
+        "tags": ["android"],
+        "title": "11 Weeks of Android: People & Identity",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "4"
+    }
+}
