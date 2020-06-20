@@ -1,0 +1,17 @@
+{
+    "4-7-newImprovementToFirestoreSecurityRules": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1592524800
+        },
+        "description": "Firebase security rules, now allows you to use a local variables and new map methods like .diff()",
+        "url": "https://firebase.googleblog.com/2020/06/new-firestore-security-rules-features.html",
+        "tags": ["firebase"],
+        "title": "New improvements to Firestore Security Rules",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "4"
+    }
+}

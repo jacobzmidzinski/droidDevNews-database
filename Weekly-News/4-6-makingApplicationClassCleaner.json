@@ -1,0 +1,17 @@
+{
+    "4-6-makingApplicationClassCleaner": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1592524800
+        },
+        "description": "Jaewoong Eum on how to make Application class much, much cleaner",
+        "url": "https://proandroiddev.com/making-application-class-much-cleaner-dagger-vs-app-startup-7dd2e3d05066",
+        "tags": ["android"],
+        "title": "Making Application class much cleaner: Dagger vs App Startup",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "4"
+    }
+}

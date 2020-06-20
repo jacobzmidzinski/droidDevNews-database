@@ -1,0 +1,17 @@
+{
+    "4-4-reifiedKotlinVocabulary": {
+        "contentType": "video",
+        "publishDate": {
+            "_seconds": 1592524800
+        },
+        "description": "Murat Yener shows you how to access the erased type info of generic parameters by using a single keyword, reified.",
+        "url": "https://www.youtube.com/watch?v=Xj45hobMI78",
+        "tags": ["kotlin"],
+        "title": "Reified - Kotlin Vocabulary",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "4"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "4-5-howToCreateRestApiWithSpringBoot": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1592524800
+        },
+        "description": "A 5 parts series from Cristian Villaseca, on how to create your own REST API using Kotlin ♥️",
+        "url": "https://proandroiddev.com/how-to-create-a-rest-api-for-your-app-with-spring-boot-kotlin-gradle-part-1-first-controller-c19fe075e968",
+        "tags": ["kotlin"],
+        "title": "How to create a REST API for your App with Spring Boot, Kotlin & Gradle",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "4"
+    }
+}
