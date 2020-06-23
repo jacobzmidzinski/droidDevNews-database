@@ -1,0 +1,16 @@
+{
+    "43-kotlinDilemmaExtensionOrMember": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1592870400
+        },
+        "description": "Great article by Harshad Nawathe, on why extensions are not always the best tool for code readability improvement",
+        "url": "https://medium.com/swlh/kotlin-dilemma-extension-or-member-38912d4c0989",
+        "tags": ["kotlin"],
+        "title": "Kotlin dilemma: Extension or Member",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        }
+    }
+}
