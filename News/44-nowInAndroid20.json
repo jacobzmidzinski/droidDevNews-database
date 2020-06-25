@@ -1,0 +1,16 @@
+{
+    "44-nowInAndroid20": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1593043200
+        },
+        "description": "Tons of new things in this weeks Now in Android. Android 11 Beta, AndroidX releases, Android 11 Meetups and more",
+        "url": "https://medium.com/androiddevelopers/now-in-android-20-9f2072f43ed6",
+        "tags": ["android"],
+        "title": "Now In Android #20",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        }
+    }
+}
