@@ -1,0 +1,17 @@
+{
+    "5-4-kotlinIsSoNiceItPreventsBugs": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1593129600
+        },
+        "description": "Michal Malewicz on UI changes presented by Apple during #WWDC2020",
+        "url": "https://uxdesign.cc/how-apple-makes-soft-ui-the-future-9f3ac69eea6f",
+        "tags": ["design"],
+        "title": "How Apple makes soft-UI the future",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "5"
+    }
+}
