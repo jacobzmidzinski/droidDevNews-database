@@ -1,0 +1,17 @@
+{
+    "5-1-android11meetups": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1593129600
+        },
+        "description": "A series of online events, led by communities around the world",
+        "url": "https://developer.android.com/android11/meetups",
+        "tags": ["android"],
+        "title": "Android 11 Meetups",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "5"
+    }
+}
