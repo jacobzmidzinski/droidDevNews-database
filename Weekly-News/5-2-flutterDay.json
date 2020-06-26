@@ -1,0 +1,17 @@
+{
+    "5-2-flutterDay": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1593129600
+        },
+        "description": "Flutter Day - 24-hour online educational event on.... Flutter",
+        "url": "https://events.withgoogle.com/flutter-day/",
+        "tags": ["flutter"],
+        "title": "Flutter Day",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "5"
+    }
+}
