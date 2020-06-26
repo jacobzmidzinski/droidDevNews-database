@@ -1,0 +1,17 @@
+{
+    "5-3-11weeksOfAndroidMachineLearning": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1593129600
+        },
+        "description": "A second pathway from #11WeeksOfAndroid series. Topic: Machine Learning",
+        "url": "https://developer.android.com/courses/pathways/android-week2-machine-learning",
+        "tags": ["android"],
+        "title": "11 Weeks of Android: Machine Learning - Pathway",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "5"
+    }
+}
