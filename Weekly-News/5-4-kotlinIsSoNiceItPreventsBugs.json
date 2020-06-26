@@ -1,0 +1,17 @@
+{
+    "5-4-kotlinIsSoNiceItPreventsBugs": {
+        "contentType": "article",
+        "publishDate": {
+            "_seconds": 1593129600
+        },
+        "description": "A second pathway from #11WeeksOfAndroid series. Topic: Machine Learning",
+        "url": "https://dev.to/mreichelt/kotlin-is-so-nice-it-prevents-bugs-before-you-add-them-107l",
+        "tags": ["kotlin"],
+        "title": "Kotlin is so nice – it prevents bugs 🐛 before you add them...",
+        "curator": {
+            "url": "https://jacobzmidzinski.com",
+            "name": "Jacob Zmidzinski"
+        },
+        "weekly": "5"
+    }
+}
